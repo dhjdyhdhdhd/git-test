@@ -5,5 +5,7 @@ public class GitText {
         System.out.println("master test！");
 
         System.out.println("hello Git!4");
+        System.out.println("hello Git!4");
+        System.out.println("pull text");
     }
 }
