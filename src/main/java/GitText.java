@@ -4,5 +4,6 @@ public class GitText {
         System.out.println("hello Git!3");
         System.out.println("master test！");
 
+        System.out.println("hello Git!4");
     }
 }
